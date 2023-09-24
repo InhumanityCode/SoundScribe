@@ -37,6 +37,10 @@ This mod is intended to only be used client-side ONLY. Works in single-player.
   - An in-game config page that doesn't rely on external mods to make it look nice
 
 
+- **Support ALL Sounds Registered in Forge**
+  - Add support for sounds from other mods loaded in Forge
+
+
 ## Configs
 - `searchTerms`
   - _**Default** = `[  ]`_
